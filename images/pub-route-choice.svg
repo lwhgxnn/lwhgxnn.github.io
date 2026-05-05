@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" role="img" aria-label="Route choice visualization">
+  <rect width="480" height="270" fill="#f7f9fb"/>
+  <path d="M60 222 C130 158 168 162 222 92 C276 22 350 48 420 34" fill="none" stroke="#2c6aa0" stroke-width="14" stroke-linecap="round"/>
+  <path d="M60 222 C142 230 198 192 252 176 C322 156 358 188 420 142" fill="none" stroke="#e03e87" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="60" cy="222" r="18" fill="#222"/>
+  <circle cx="420" cy="34" r="18" fill="#222"/>
+  <circle cx="420" cy="142" r="14" fill="#e03e87"/>
+  <g fill="#d7e2ed">
+    <rect x="78" y="36" width="62" height="34"/>
+    <rect x="292" y="86" width="76" height="42"/>
+    <rect x="152" y="206" width="80" height="30"/>
+  </g>
+</svg>

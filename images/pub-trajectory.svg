@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" role="img" aria-label="Trajectory reconstruction visualization">
+  <rect width="480" height="270" fill="#f7f9fb"/>
+  <g fill="none" stroke="#d8e0e8" stroke-width="12" stroke-linecap="round">
+    <path d="M48 74 H430"/>
+    <path d="M48 150 H430"/>
+    <path d="M48 226 H430"/>
+    <path d="M118 34 V240"/>
+    <path d="M238 34 V240"/>
+    <path d="M358 34 V240"/>
+  </g>
+  <path d="M58 226 C118 198 118 150 174 150 C238 150 238 74 306 74 C358 74 358 150 424 150" fill="none" stroke="#e03e87" stroke-width="9" stroke-dasharray="16 12" stroke-linecap="round"/>
+  <path d="M58 226 C118 198 118 150 174 150 C238 150 238 74 306 74 C358 74 358 150 424 150" fill="none" stroke="#2c6aa0" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="174" cy="150" r="11" fill="#222"/>
+  <circle cx="306" cy="74" r="11" fill="#222"/>
+  <circle cx="424" cy="150" r="11" fill="#222"/>
+</svg>

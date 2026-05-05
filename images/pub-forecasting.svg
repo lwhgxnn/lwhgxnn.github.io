@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" role="img" aria-label="Traffic forecasting visualization">
+  <rect width="480" height="270" fill="#f7f9fb"/>
+  <g stroke="#d8e0e8" stroke-width="2">
+    <path d="M52 40v190M132 40v190M212 40v190M292 40v190M372 40v190M452 40v190"/>
+    <path d="M38 70h414M38 120h414M38 170h414M38 220h414"/>
+  </g>
+  <path d="M42 198 C86 160 108 178 138 132 C170 82 204 94 236 138 C276 194 318 78 358 104 C394 128 410 100 446 76" fill="none" stroke="#e03e87" stroke-width="10" stroke-linecap="round"/>
+  <path d="M42 214 C88 206 118 192 150 184 C194 172 232 196 268 184 C316 168 346 148 446 142" fill="none" stroke="#2c6aa0" stroke-width="8" stroke-linecap="round" opacity=".85"/>
+  <circle cx="358" cy="104" r="12" fill="#222"/>
+</svg>
