@@ -13,6 +13,13 @@ news:
     text: "Presented work on multisensory information processing and lane change decisions at the <strong>TRB 104th Annual Meeting</strong>."
 
 selected_publications:
+  - title: "Semantics-guided Hierarchical Decision-making for Autonomous Driving via LLM-assisted Reinforcement Learning"
+    url: "/publications/"
+    authors: "<strong><u>Wenhao Li</u></strong>, Tao Wang, Sheng Hu"
+    venue: "Transportation Research Part C: Emerging Technologies, 2026"
+    badge: "TR Part C"
+    image: "/images/pub-decision-making.svg"
+    image_alt: "Hierarchical decision-making research thumbnail"
   - title: "The Impact of Multisensory Information Processing on Route Change Decisions: An Exploration of Visual and Auditory Effects"
     url: "/publications/"
     authors: "<strong><u>Wenhao Li</u></strong>, Qinhe An, Tao Wang"
