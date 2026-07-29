@@ -12,11 +12,16 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Wenhao Li"
 title_separator          : "-"
 name                     : &name "Wenhao Li"
-description              : &description "Academic homepage of Wenhao Li, Ph.D. candidate in Transportation Engineering at Southeast University."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic homepage of Wenhao Li, Ph.D. in Transportation Engineering and Research Assistant at HKUST(GZ)."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://liwenhao061.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liwenhao061/liwenhao061.github.io"
+
+# Homepage Content
+homepage:
+  news_limit                 : 4
+  selected_publications_limit: 5
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +31,9 @@ author:
   avatar           : "wenhao-li-profile.jpg"
   name             : "Wenhao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Southeast University"
-  location         : "Nanjing, China"
-  employer         : "School of Transportation, Southeast University"
+  bio              : "Research Assistant at HKUST(GZ)"
+  location         : "Guangzhou, China"
+  employer         : "Thrust of Intelligent Transportation, HKUST(GZ)"
   uri              : # URL
   email            : "liwenhao@seu.edu.cn" 
 
