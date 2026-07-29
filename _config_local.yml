@@ -1,0 +1,10 @@
+# Local preview overrides. Layer this on top of _config.yml:
+#
+#   JEKYLL_ENV=local jekyll serve -H 0.0.0.0 --config _config.yml,_config_local.yml
+#
+# An empty url makes every asset link relative, so the site renders no matter
+# how it is reached: localhost, the WSL IP, or any port. Without this the CSS
+# links become absolute (https://liwenhao061.github.io/... or http://0.0.0.0:4000/...)
+# and the page loads without any styling.
+url: ""
+baseurl: ""
