@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" role="img" aria-label="Hierarchical decision-making visualization">
+  <rect width="480" height="270" fill="#f7f9fb"/>
+  <g stroke="#d8e0e8" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M240 78 V100 H120 V116"/>
+    <path d="M240 78 V100 H360 V116"/>
+  </g>
+  <rect x="150" y="32" width="180" height="46" rx="8" fill="#d8e0e8"/>
+  <text x="240" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#2c6aa0">LLM</text>
+  <rect x="60" y="116" width="120" height="44" rx="8" fill="#d7e2ed"/>
+  <rect x="300" y="116" width="120" height="44" rx="8" fill="#d7e2ed"/>
+  <rect x="40" y="190" width="400" height="56" rx="8" fill="#d8e0e8"/>
+  <path d="M56 218 H424" fill="none" stroke="#f7f9fb" stroke-width="4" stroke-dasharray="18 14"/>
+  <path d="M120 160 C120 184 150 204 196 204" fill="none" stroke="#2c6aa0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M360 160 C360 186 330 232 288 232" fill="none" stroke="#e03e87" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+  <circle cx="196" cy="204" r="13" fill="#222"/>
+  <circle cx="288" cy="232" r="11" fill="#e03e87"/>
+</svg>
