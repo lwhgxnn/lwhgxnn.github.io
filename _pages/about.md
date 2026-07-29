@@ -10,12 +10,13 @@ redirect_from:
 
 <h1 id="about-me">&#128663; About Me</h1>
 
-I am a Ph.D. candidate at the School of Transportation, Southeast University, advised by Prof. Yanjie Ji. I was also a joint Ph.D. student at Nagoya University, advised by Prof. Tomio Miwa. I received my M.S. from Northern Arizona University, M.Eng. from Guilin University of Electronic Technology, and B.E. from Central South University.
+I received my Ph.D. in Transportation Engineering from the School of Transportation, Southeast University, advised by Prof. Yanjie Ji. I was also a joint Ph.D. student at Nagoya University, advised by Prof. Tomio Miwa. I received my M.S. from Northern Arizona University, M.Eng. from Guilin University of Electronic Technology, and B.E. from Central South University.
 
 My research centers on intelligent transportation systems, traffic modeling, travel behavior analysis, and data-driven decision support for urban mobility. I am currently interested in route choice modeling, traffic guidance and signal control, connected and autonomous vehicles, shared mobility, trajectory reconstruction, and machine learning for transportation systems.
 
 <h1 id="news">&#128240; News</h1>
 
+- *2026.07*: Our work on **semantics-guided hierarchical decision-making for autonomous driving** was published in *Transportation Research Part C: Emerging Technologies*.
 - *2026.01*: One paper accepted by **IEEE Intelligent Transportation Systems Magazine** on multisensory information processing and route change decisions.
 - *2025.11*: Our work on **Multi-scale Wavelet-Mamba traffic forecasting** was published in *Scientific Reports*.
 - *2025.03*: Our paper on **navigation information and driver route choice** was published in *Research in Transportation Economics*.
@@ -96,22 +97,6 @@ My research centers on intelligent transportation systems, traffic modeling, tra
     <p><a href="https://doi.org/10.1049/itr2.12506" class="btn" role="button">DOI</a></p>
   </div>
 </div>
-
-<h1 id="honors-and-awards">&#127942; Honors and Awards</h1>
-
-- 2023 Second Prize, 4th **MathorCup** University Mathematical Modeling Challenge, Big Data Track.
-- 2020 Third Prize, 17th **Huawei Cup** China Post-Graduate Mathematical Contest in Modeling.
-- 2020 Honorable Mention, 9th Mathematical China International Contest in Modeling.
-- 2019 Third Prize, 12th Mathematical China Mathematical Modeling Network Challenge.
-- Academic scholarships and undergraduate mathematical modeling awards.
-
-<h1 id="educations">&#127891; Educations</h1>
-
-- *2019.09 - Present*, Ph.D. Candidate, Transportation Engineering, Southeast University, China.
-- *2022.05 - 2023.11*, Joint Ph.D. Student, Transportation Planning, Nagoya University, Japan.
-- *2019.01 - 2021.08*, M.S., Computer Information Technology (Data Analytics), Northern Arizona University, USA.
-- *2016.09 - 2019.06*, M.Eng., Transportation Engineering, Guilin University of Electronic Technology, China.
-- *2012.09 - 2016.06*, B.E., Transportation, Central South University, China.
 
 <h1 id="services">&#129309; Services</h1>
 
