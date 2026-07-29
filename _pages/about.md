@@ -17,6 +17,7 @@ My research centers on intelligent transportation systems, traffic modeling, tra
 <h1 id="news">&#128240; News</h1>
 
 - *2026.07*: Our work on **semantics-guided hierarchical decision-making for autonomous driving** was published in *Transportation Research Part C: Emerging Technologies*.
+- *2026.05*: Joined **Prof. Jiawei Wang's research group** at The Hong Kong University of Science and Technology (Guangzhou) as a Research Assistant.
 - *2026.01*: One paper accepted by **IEEE Intelligent Transportation Systems Magazine** on multisensory information processing and route change decisions.
 - *2025.11*: Our work on **Multi-scale Wavelet-Mamba traffic forecasting** was published in *Scientific Reports*.
 - *2025.03*: Our paper on **navigation information and driver route choice** was published in *Research in Transportation Economics*.
