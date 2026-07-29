@@ -1,0 +1,4 @@
+# Shell scripts must keep LF endings: with core.autocrlf=true on Windows they
+# would otherwise be checked out with CRLF, which makes bash fail with
+# "bad interpreter: No such file or directory" under WSL.
+*.sh text eol=lf
